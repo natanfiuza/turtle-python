@@ -8,7 +8,7 @@ O modo básico:
 
 ![image](https://user-images.githubusercontent.com/533266/208299881-0293a7d8-8e30-4f0e-821d-d6401df5e446.png)
 ----
-https://user-images.githubusercontent.com/533266/208299659-e967adaa-8582-42c9-a885-e9f028a8ed2b.mp4
+![video](https://user-images.githubusercontent.com/533266/208299659-e967adaa-8582-42c9-a885-e9f028a8ed2b.mp4)
 ----
 ![image](https://user-images.githubusercontent.com/533266/208299690-afd31e18-059d-42f1-a3ef-03620f121826.jpg)
 ----
