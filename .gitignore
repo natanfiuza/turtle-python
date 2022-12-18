@@ -67,5 +67,6 @@ temp
 .temp
 .pytest_cache
 .coverage
+__pycache__
 
 file_logging.log
